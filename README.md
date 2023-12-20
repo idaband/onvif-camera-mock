@@ -25,7 +25,7 @@ Clone the repository to you local computer
   sudo git clone https://github.com/IroN404/onvif-camera-mock
 ```
 If not present, install Docker
-On ubuntu 22.04
+> On ubuntu 22.04
 ```bash
   # Add Docker's official GPG key:
 sudo apt-get update
